@@ -13,7 +13,7 @@ var config = {
 			multitenant: false,
 			mongo: true
 		}],
-	"serviceName": "swaggerTestSample",
+	"serviceName": "swaggertestsample",
 	"serviceGroup": "sample",
 	"serviceVersion": 1,
 	"servicePort": 4062,
